@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Rany ElHousieny Resume', // <title>
+  siteTitle: 'Gatsby Starter Resume', // <title>
   manifestName: 'Resume',
   manifestShortName: 'Landing', // max 12 characters
   manifestStartUrl: '/',
@@ -15,25 +15,25 @@ module.exports = {
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/ranyelhousieny',
+      url: 'https://github.com/anubhavsrivastava',
     },
     {
       icon: 'fa-linkedin-in',
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/ranyelhousieny/',
+      url: 'https://linkedin.com/in/theanubhav/',
     },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/',
+      url: 'https://twitter.com/onlyanubhav',
     },
     {
       icon: 'fa-facebook-f',
       name: 'Facebook',
-      url: 'https://www.facebook.com',
+      url: 'https://facebook.com/theanubhav',
     },
   ],
-  email: 'ranyel@msn.com',
+  email: 'anubhav.srivastava00@gmail.com',
   phone: '000-00000',
-  address: 'Redmond, WA 98052',
+  address: '305 Del Sol, Sunnyvale, CA',
 };
